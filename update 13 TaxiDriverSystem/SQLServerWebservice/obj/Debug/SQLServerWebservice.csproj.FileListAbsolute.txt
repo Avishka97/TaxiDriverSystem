@@ -1,0 +1,158 @@
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\obj\Debug\SQLServerWebservice.csprojResolveAssemblyReference.cache
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\ApplicationInsights.config
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\csc.exe
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\System.Collections.Immutable.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\System.Reflection.Metadata.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\vbc.exe
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\VBCSCompiler.exe
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\roslyn\VBCSCompiler.exe.config
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\SQLServerWebservice.dll.config
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\SQLServerWebservice.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\SQLServerWebservice.pdb
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Antlr3.Runtime.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\AspNet.ScriptManager.bootstrap.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\AspNet.ScriptManager.jQuery.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\EntityFramework.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\EntityFramework.SqlServer.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.Agent.Intercept.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.DependencyCollector.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.Web.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.WindowsServer.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.ApplicationInsights.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.Core.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Cookies.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Facebook.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Google.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.OAuth.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Twitter.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.ScriptManager.WebForms.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Web.Infrastructure.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Newtonsoft.Json.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Owin.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\System.Web.Optimization.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\System.Web.Providers.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\WebGrease.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.DependencyCollector.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.Web.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.WindowsServer.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.ApplicationInsights.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\System.Web.Optimization.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Antlr3.Runtime.pdb
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Newtonsoft.Json.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\EntityFramework.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\EntityFramework.SqlServer.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.Core.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\System.Web.Providers.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Facebook.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Cookies.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Google.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Twitter.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.OAuth.xml
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\obj\Debug\SQLServerWebservice.dll
+G:\taxiDriver\TaxiDriverSystem\SQLServerWebservice\obj\Debug\SQLServerWebservice.pdb
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\ApplicationInsights.config
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\csc.exe
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\System.Collections.Immutable.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\System.Reflection.Metadata.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\vbc.exe
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\VBCSCompiler.exe
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\roslyn\VBCSCompiler.exe.config
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\SQLServerWebservice.dll.config
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\SQLServerWebservice.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\SQLServerWebservice.pdb
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Antlr3.Runtime.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\AspNet.ScriptManager.bootstrap.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\AspNet.ScriptManager.jQuery.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\EntityFramework.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\EntityFramework.SqlServer.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.Agent.Intercept.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.DependencyCollector.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.Web.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.WindowsServer.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.ApplicationInsights.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.Core.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Cookies.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Facebook.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Google.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.OAuth.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Twitter.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.ScriptManager.WebForms.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Web.Infrastructure.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Newtonsoft.Json.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Owin.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\System.Web.Optimization.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\System.Web.Providers.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\WebGrease.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.DependencyCollector.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.Web.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AI.WindowsServer.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.ApplicationInsights.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\System.Web.Optimization.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Antlr3.Runtime.pdb
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Newtonsoft.Json.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\EntityFramework.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\EntityFramework.SqlServer.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.Core.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\System.Web.Providers.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Facebook.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Cookies.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Google.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.Twitter.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\bin\Microsoft.Owin.Security.OAuth.xml
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\obj\Debug\SQLServerWebservice.csprojResolveAssemblyReference.cache
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\obj\Debug\SQLServerWebservice.dll
+G:\taxiDriver\update 12 TaxiDriverSystem\SQLServerWebservice\obj\Debug\SQLServerWebservice.pdb

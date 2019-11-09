@@ -20,3 +20,6 @@ G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Drive
 G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverStartEndJourney.resources
 G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.drivermainpanel.resources
 G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Login.resources
+F:\TaxiDriver\TaxiDriverSystem\update 12 TaxiDriverSystem\TaxiDriverSystem\bin\Debug\TaxiDriverSystem.exe.config
+F:\TaxiDriver\TaxiDriverSystem\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.exe
+F:\TaxiDriver\TaxiDriverSystem\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.pdb

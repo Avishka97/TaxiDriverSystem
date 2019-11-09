@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{30A18201-DEB9-46B3-B725-8B54F21D24ED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TaxiDriverSystem</RootNamespace>
+    <AssemblyName>TaxiDriverSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DB.cs" />
+    <Compile Include="Disciplinary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Disciplinary.Designer.cs">
+      <DependentUpon>Disciplinary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverAssignQalification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverAssignQalification.Designer.cs">
+      <DependentUpon>DriverAssignQalification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverAssignSession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverAssignSession.Designer.cs">
+      <DependentUpon>DriverAssignSession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="drivermainpanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drivermainpanel.Designer.cs">
+      <DependentUpon>drivermainpanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverSearch.Designer.cs">
+      <DependentUpon>DriverSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverStartEndDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverStartEndDay.Designer.cs">
+      <DependentUpon>DriverStartEndDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverStartEndJourney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverStartEndJourney.Designer.cs">
+      <DependentUpon>DriverStartEndJourney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Drivertel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Drivertel.Designer.cs">
+      <DependentUpon>Drivertel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Driver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Driver.Designer.cs">
+      <DependentUpon>Driver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpireQualificationandTraining.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExpireQualificationandTraining.Designer.cs">
+      <DependentUpon>ExpireQualificationandTraining.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Qalification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qalification.Designer.cs">
+      <DependentUpon>Qalification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\SQLWebServiceReference5\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="TrainingSessions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainingSessions.Designer.cs">
+      <DependentUpon>TrainingSessions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainingType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainingType.Designer.cs">
+      <DependentUpon>TrainingType.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Disciplinary.resx">
+      <DependentUpon>Disciplinary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverAssignQalification.resx">
+      <DependentUpon>DriverAssignQalification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverAssignSession.resx">
+      <DependentUpon>DriverAssignSession.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drivermainpanel.resx">
+      <DependentUpon>drivermainpanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverSearch.resx">
+      <DependentUpon>DriverSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverStartEndDay.resx">
+      <DependentUpon>DriverStartEndDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverStartEndJourney.resx">
+      <DependentUpon>DriverStartEndJourney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Drivertel.resx">
+      <DependentUpon>Drivertel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Driver.resx">
+      <DependentUpon>Driver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExpireQualificationandTraining.resx">
+      <DependentUpon>ExpireQualificationandTraining.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Qalification.resx">
+      <DependentUpon>Qalification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainingSessions.resx">
+      <DependentUpon>TrainingSessions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainingType.resx">
+      <DependentUpon>TrainingType.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\System.Data.DataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\SQLWebServiceReference5\WebService1.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\SQLWebServiceReference5\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\SQLWebServiceReference5\WebService1.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\SQLWebServiceReference5\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\SQLWebServiceReference5\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\SQLWebServiceReference5\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Img\Taxis.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
