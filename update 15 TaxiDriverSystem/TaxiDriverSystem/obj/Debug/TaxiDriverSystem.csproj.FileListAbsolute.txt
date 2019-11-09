@@ -1,0 +1,60 @@
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\TaxiDriverSystem.exe.config
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\TaxiDriverSystem.exe
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\TaxiDriverSystem.pdb
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.csprojResolveAssemblyReference.cache
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Properties.Resources.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.csproj.GenerateResource.Cache
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.exe
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.pdb
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Drivertel.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Driver.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Qalification.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.TrainingType.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.TrainingSessions.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverAssignSession.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverAssignQalification.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverSearch.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.ExpireQualificationandTraining.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Disciplinary.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverStartEndDay.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverStartEndJourney.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.drivermainpanel.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Login.resources
+F:\TaxiDriver\TaxiDriverSystem\update 12 TaxiDriverSystem\TaxiDriverSystem\bin\Debug\TaxiDriverSystem.exe.config
+F:\TaxiDriver\TaxiDriverSystem\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.exe
+F:\TaxiDriver\TaxiDriverSystem\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.pdb
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\bin\Debug\TaxiDriverSystem.exe.config
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.exe
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.pdb
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\bin\Debug\TaxiDriverSystem.exe
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\bin\Debug\TaxiDriverSystem.pdb
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.csprojResolveAssemblyReference.cache
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Admin.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Disciplinary.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverAssignQalification.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverAssignSession.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.drivermainpanel.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverSearch.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverStartEndDay.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.DriverStartEndJourney.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Drivertel.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Driver.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.ExpireQualificationandTraining.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Login.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Properties.Resources.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Qalification.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.TrainingSessions.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.TrainingType.resources
+G:\taxiDriver\update 12 TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.csproj.GenerateResource.Cache
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\LiveCharts.dll
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\LiveCharts.WinForms.dll
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\LiveCharts.Wpf.dll
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\LiveCharts.pdb
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\LiveCharts.xml
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\LiveCharts.WinForms.pdb
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\LiveCharts.WinForms.xml
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\LiveCharts.Wpf.pdb
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\bin\Debug\LiveCharts.Wpf.xml
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Admin.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Panel.resources
+G:\taxiDriver\TaxiDriverSystem\TaxiDriverSystem\obj\Debug\TaxiDriverSystem.Predict.resources
